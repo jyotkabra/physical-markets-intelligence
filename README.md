@@ -1,13 +1,13 @@
 # PHYSICAL MARKETS INTELLIGENCE
 A research project investigating whether physical-market activity can provide useful information about commodity markets and financial prices.
 
-Research Question
+# Research Question
 
 Can observable changes in physical-market activity provide an earlier signal of commodity-market conditions than conventional economic and financial indicators?
 
 The initial focus will be on the relationship between physical commodity flows, maritime activity, macroeconomic conditions, and commodity prices.
 
-Motivation
+# Motivation
 
 Financial markets ultimately reflect activity in the physical economy.
 
@@ -26,7 +26,7 @@ monetary and macroeconomic conditions
 
 This project investigates whether publicly observable physical-market data can be transformed into quantitative indicators that provide useful information about subsequent commodity-market conditions.
 
-Research Framework
+# Research Framework
 
 The project follows the chain:
 
@@ -34,7 +34,8 @@ Physical world → Data → Indicator → Statistical relationship → Market in
 
 The objective is not simply to find correlations, but to investigate whether physical-market information contains incremental information that could be useful to a market researcher.
 
-Initial Areas of Investigation
+# Initial Areas of Investigation
+
 Maritime and shipping activity
 Commodity trade flows
 Port activity
@@ -44,7 +45,8 @@ Macroeconomic indicators
 Time-series relationships
 Forecasting and nowcasting
 Alternative data
-Methodology
+
+# Methodology
 
 The project will progressively develop:
 
@@ -58,7 +60,8 @@ Forecasting / nowcasting
 Robustness checks
 Economic interpretation
 Research conclusions
-Principles
+
+# Principles
 
 This project prioritizes:
 
@@ -71,7 +74,7 @@ honest treatment of limitations
 
 A statistically significant relationship is not automatically economically meaningful, and a predictive relationship is not automatically causal.
 
-Status
+# Status
 
 Stage: Project initialization
 
